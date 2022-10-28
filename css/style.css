@@ -1,3 +1,11 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+
+.banner-container{
+    background-color: #6996A1;
+}
+
+.banner-column{
+    background-color: #005994;
+}
